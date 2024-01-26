@@ -1,0 +1,90 @@
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:0:parse_ptype.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:0:parse_ptype is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:0:parse_ptype.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:2:compare_type.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:2:compare_type is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:2:compare_type.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:4:parse_pokemon_list.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:4:parse_pokemon_list is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:4:parse_pokemon_list.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:6:parse_move_edge_cases.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:6:parse_move_edge_cases is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:6:parse_move_edge_cases.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:8:removing fainted pokemon.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:8:removing fainted pokemon is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:8:removing fainted pokemon.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:10:testing removing fainted pokemon from an empty team.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:10:testing removing fainted pokemon from an empty team is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:10:testing removing fainted pokemon from an empty team.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:12:comparing higher hp different type.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:12:comparing higher hp different type is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:12:comparing higher hp different type.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:14:comparing higher hp same type.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:14:comparing higher hp same type is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:14:comparing higher hp same type.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:16:comparing lower hp same type.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:16:comparing lower hp same type is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:16:comparing lower hp same type.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:18:comparing different hp different type.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:18:comparing different hp different type is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:18:comparing different hp different type.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:20:comparing different hp different type.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:20:comparing different hp different type is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:20:comparing different hp different type.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:22:test_execute_move_success.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:22:test_execute_move_success is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:22:test_execute_move_success.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:24:test_execute_move_lethal.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:24:test_execute_move_lethal is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:24:test_execute_move_lethal.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:26:all_team_has_fainted.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:26:all_team_has_fainted is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:26:all_team_has_fainted.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:28:none_team_has_fainted.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:28:none_team_has_fainted is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:28:none_team_has_fainted.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:30:remove_all_fainted.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:30:remove_all_fainted is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:30:remove_all_fainted.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:32:remove_none_fainted.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:32:remove_none_fainted is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:32:remove_none_fainted.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:34:testing string_of_ptype for all types.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:34:testing string_of_ptype for all types is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:34:testing string_of_ptype for all types.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:36:choose move from pokemon first choice invalid second valid.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:36:choose move from pokemon first choice invalid second valid is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:36:choose move from pokemon first choice invalid second valid.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:38:choose next pokemon valid choice.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:38:choose next pokemon valid choice is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:38:choose next pokemon valid choice.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:40:choose next pokemon first choice fainted valid choice on second.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:40:choose next pokemon first choice fainted valid choice on second is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:40:choose next pokemon first choice fainted valid choice on second.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:42:choose next pokemon first few choices invalid including trying 0 index.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:42:choose next pokemon first few choices invalid including trying 0 index is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:42:choose next pokemon first few choices invalid including trying 0 index.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:44:testing player input valid name first try.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:44:testing player input valid name first try is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:44:testing player input valid name first try.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:46:testing player using combination of character types.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:46:testing player using combination of character types is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:46:testing player using combination of character types.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:48:testing consecutive valid inputs.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:48:testing consecutive valid inputs is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:48:testing consecutive valid inputs.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:50:testing symbols among valid inputs.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:50:testing symbols among valid inputs is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:50:testing symbols among valid inputs.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:52:testing with a lot of gibberish entered and 3 valid inputs scattered among said gibberish.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:52:testing with a lot of gibberish entered and 3 valid inputs scattered among said gibberish is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:52:testing with a lot of gibberish entered and 3 valid inputs scattered among said gibberish.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:54:test display team with invalid inputs during enter team stage.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:54:test display team with invalid inputs during enter team stage is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:54:test display team with invalid inputs during enter team stage.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:56:test display pokemon details charmander.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:56:test display pokemon details charmander is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:56:test display pokemon details charmander.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Start test test suite for final project:57:test display available pokemon.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: Test test suite for final project:57:test display available pokemon is successful.
+2023-12-09T00:36:14+00:00 dhcp-vl2041-44994.eduroam.cornell.edu#01 I: End test test suite for final project:57:test display available pokemon.

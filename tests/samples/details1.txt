@@ -1,0 +1,7 @@
+Name: [31mCharmander[0m
+Type: Fire
+HP: 50
+Moves:
+- Flamethrower (Power: 90, Accuracy: 100%)
+- Tackle (Power: 40, Accuracy: 100%)
+

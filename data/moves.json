@@ -1,0 +1,81 @@
+{
+  "moveset": [
+    {
+      "move_name": "scratch",
+      "base_power": 40,
+      "mtype": "Normal",
+      "effects": "No additional effect.",
+      "accuracy": 100
+    },
+    {
+      "move_name": "ember",
+      "base_power": 40,
+      "mtype": "Fire",
+      "effects": "May cause burn.",
+      "accuracy": 100
+    },
+    {
+      "move_name": "flamethrower",
+      "base_power": 90,
+      "mtype": "Fire",
+      "effects": "May cause burn.",
+      "accuracy": 100
+    },
+    {
+      "move_name": "fire fang",
+      "base_power": 65,
+      "mtype": "Fire",
+      "effects": "May cause burn.",
+      "accuracy": 95
+    },
+    {
+      "move_name": "tackle",
+      "base_power": 40,
+      "mtype": "Normal",
+      "effects": "No additional effect.",
+      "accuracy": 100
+    },
+    {
+      "move_name": "leech seed",
+      "base_power": null,
+      "mtype": "Grass",
+      "effects": "Saps health from the opponent over several turns.",
+      "accuracy": 90
+    },
+    {
+      "move_name": "razor leaf",
+      "base_power": 55,
+      "mtype": "Grass",
+      "effects": "High critical hit ratio.",
+      "accuracy": 95
+    },
+    {
+      "move_name": "poison powder",
+      "base_power": null,
+      "mtype": "Grass",
+      "effects": "May poison the opponent.",
+      "accuracy": 85
+    },
+    {
+      "move_name": "water gun",
+      "base_power": 40,
+      "mtype": "Water",
+      "effects": "No additional effect.",
+      "accuracy": 100
+    },
+    {
+      "move_name": "water pulse",
+      "base_power": 60,
+      "mtype": "Water",
+      "effects": "May confuse the opponent.",
+      "accuracy": 100
+    },
+    {
+      "move_name": "aqua tail",
+      "base_power": 90,
+      "mtype": "Water",
+      "effects": "No additional effect.",
+      "accuracy": 90
+    }
+  ]
+}

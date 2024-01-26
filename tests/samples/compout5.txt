@@ -1,0 +1,8 @@
+Available Starters:
+1: [31mCharmander[0m
+2: [32mBulbasaur[0m
+3: [34mSquirtle[0m
+4: [32mChikorita[0m
+5: [34mTotodile[0m
+6: [31mCyndaquil[0m
+

@@ -1,0 +1,4 @@
+Player 1's Team:
+[31mCharmander[0m
+[32mBulbasaur[0m
+[34mSquirtle[0m

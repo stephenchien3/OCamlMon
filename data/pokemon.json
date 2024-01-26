@@ -1,0 +1,70 @@
+{
+  "pokemon": [
+    {
+      "name": "Charmander",
+      "hp": 78,
+      "ptype": "Fire",
+      "moveset": [
+        "scratch",
+        "ember",
+        "flamethrower",
+        "fire fang"
+      ]
+    },
+    {
+      "name": "Bulbasaur",
+      "hp": 76,
+      "ptype": "Grass",
+      "moveset": [
+        "tackle",
+        "leech seed",
+        "razor leaf",
+        "poison powder"
+      ]
+    },
+    {
+      "name": "Squirtle",
+      "hp": 72,
+      "ptype": "Water",
+      "moveset": [
+        "tackle",
+        "water gun",
+        "water pulse",
+        "aqua tail"
+      ]
+    },
+    {
+      "name": "Chikorita",
+      "hp": 73,
+      "ptype": "Grass",
+      "moveset": [
+        "scratch",
+        "leech seed",
+        "razor leaf",
+        "poison powder"
+      ]
+    },
+    {
+      "name": "Totodile",
+      "hp": 75,
+      "ptype": "Water",
+      "moveset": [
+        "tackle",
+        "water gun",
+        "water pulse",
+        "aqua tail"
+      ]
+    },
+    {
+      "name": "Cyndaquil",
+      "hp": 79,
+      "ptype": "Fire",
+      "moveset": [
+        "scratch",
+        "ember",
+        "flamethrower",
+        "fire fang"
+      ]
+    }
+  ]
+}

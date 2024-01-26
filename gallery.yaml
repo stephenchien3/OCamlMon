@@ -1,0 +1,28 @@
+---
+# Members of your group.
+group:
+  - name: Matthew Liang
+    netid: ml2483
+  - name: Stephen Chien
+    netid: slc292
+  - name: Oswald Tay
+    netid: owt5
+  - name: Michael Shi
+    netid: mhs293
+# Your PM.
+pm:
+  name: Dean Zhang
+  netid: dyz4
+# Set to false if you don't want your gallery entry to be public.
+publish: false
+# Pithy title
+title: "2-Player Pokemon"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/owt5/3110-final-project"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project is a 2-Player Pokemon game played from the terminal. It includes
+  team building with a selection of different Pokemon where the players form
+  their teams and battle functionality where teams attack each other.

@@ -1,0 +1,70 @@
+(lang dune 3.10)
+(name Game)
+(sections (lib .) (libexec .) (doc ../../doc/Game))
+(files
+ (lib
+  (META
+   battle.ml
+   battle.mli
+   dune-package
+   game.a
+   game.cma
+   game.cmi
+   game.cmt
+   game.cmx
+   game.cmxa
+   game.ml
+   game__Battle.cmi
+   game__Battle.cmt
+   game__Battle.cmti
+   game__Battle.cmx
+   game__Pokemon.cmi
+   game__Pokemon.cmt
+   game__Pokemon.cmti
+   game__Pokemon.cmx
+   game__Start.cmi
+   game__Start.cmt
+   game__Start.cmti
+   game__Start.cmx
+   opam
+   pokemon.ml
+   pokemon.mli
+   start.ml
+   start.mli))
+ (libexec (game.cmxs))
+ (doc (README.md)))
+(library
+ (name Game)
+ (kind normal)
+ (archives (byte game.cma) (native game.cmxa))
+ (plugins (byte game.cma) (native game.cmxs))
+ (native_archives game.a)
+ (requires ounit2 yojson)
+ (main_module_name Game)
+ (modes byte native)
+ (modules
+  (wrapped
+   (group
+    (alias
+     (obj_name game)
+     (visibility public)
+     (kind alias)
+     (source (path Game) (impl (path game.ml-gen))))
+    (name Game)
+    (modules
+     (module
+      (obj_name game__Battle)
+      (visibility public)
+      (source (path Battle) (intf (path battle.mli)) (impl (path battle.ml))))
+     (module
+      (obj_name game__Pokemon)
+      (visibility public)
+      (source
+       (path Pokemon)
+       (intf (path pokemon.mli))
+       (impl (path pokemon.ml))))
+     (module
+      (obj_name game__Start)
+      (visibility public)
+      (source (path Start) (intf (path start.mli)) (impl (path start.ml))))))
+   (wrapped true))))

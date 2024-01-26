@@ -1,0 +1,7 @@
+To install and run the game:
+
+1) Install Opam (further instructions found here:https://cs3110.github.io/textbook/chapters/preface/install.html)
+2) Download the Zip File, and unzip it 
+3) Navigate to the directory of the project
+4) Run these commands on terminal: make build
+5) To start the game, run the command: make play 
